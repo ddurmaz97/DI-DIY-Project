@@ -28,3 +28,6 @@ integrated and cleaned data.
 
 All code documentation and instructions should be placed in this `README.md`;
 feel free to erase this intro text.
+
+##Data
+Data available at https://hessenbox.uni-marburg.de/getlink/fiW1yTRNsmSZkNryAKkRTH/DI_Project (password protected)
